@@ -194,3 +194,8 @@ credentials.json
 
 # Jupyter notebook outputs (optional - uncomment if you want to exclude outputs)
 # *.ipynb
+
+wandb/
+__pycache__/
+*.pt
+*.ckpt
